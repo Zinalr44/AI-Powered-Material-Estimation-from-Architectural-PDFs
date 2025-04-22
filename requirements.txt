@@ -1,0 +1,10 @@
+pandas
+numpy
+ezdxf
+shapely
+pdfplumber
+pytesseract
+pdf2image
+pymupdf
+opencv-python
+openpyxl
